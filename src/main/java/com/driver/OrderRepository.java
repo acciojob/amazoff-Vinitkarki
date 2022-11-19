@@ -1,4 +1,4 @@
-package com.driver.Repository;
+package com.driver;
 
 import com.driver.DeliveryPartner;
 import com.driver.Order;
